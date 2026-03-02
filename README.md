@@ -6,7 +6,7 @@
 **Especialización en Sonido Aplicado a las Artes Digitales**  
 **Imagen y Sonido en Tiempo Real**
 
-**Docente:** Cohl, Daniel  
+**Docente:** Loaiza, Daniel  
 **Estudiante:** Emanuel Bellanti  
 **Trabajo Final:** “Geometría Sonora”  
 **Fecha:** Febrero 2026  
